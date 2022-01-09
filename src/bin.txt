@@ -1,0 +1,2 @@
+<label htmlFor='src'> Search by name</label>
+            <input type='text'  placeholder='Search'/>
